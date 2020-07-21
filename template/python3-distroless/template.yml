@@ -1,0 +1,2 @@
+language: python3-distroless
+fprocess: /venv/bin/python3 index.py

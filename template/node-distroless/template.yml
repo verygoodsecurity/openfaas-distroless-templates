@@ -1,0 +1,2 @@
+language: node-distroless
+fprocess: /nodejs/bin/node index.js
